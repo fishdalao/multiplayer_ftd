@@ -1,0 +1,17 @@
+{
+  "name": "ftd",
+  "version": "1.0.0",
+  "main": "ftd.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.5.1",
+    "ws": "^7.4.4"
+  },
+  "devDependencies": {},
+  "description": ""
+}
